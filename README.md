@@ -1,6 +1,6 @@
 ### Arthur Brito Medeiros
 
-Senior Data Scientist at Trillia (B3) — working at the intersection of data, generative AI, and AI engineering.
+Senior AI Engineer at Trillia (B3) — working at the intersection of data, generative AI, and AI engineering.
 
 Computer Engineering at CIn-UFPE. In practice, I think like a systems builder: data + product + engineering as one thing, not three separate tracks.
 
