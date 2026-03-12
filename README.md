@@ -1,25 +1,34 @@
 ### Arthur Brito Medeiros
 
-<!--
-**ArthurBM/ArthurBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-Curious programer, enthusiastic on learning all kinds of stuff in most areas in order to help peoples lives!
+Senior AI Engineer at Trillia (B3) — working at the intersection of
+software engineering, data, generative AI, and AI engineering.
 
-I have a passion for impactful iniciatives, entrepenourship, and I belive that it's one of the most effective ways to do what you love, help people, and be happy (Finding ikigay)
+Computer Engineering at CIn-UFPE. In practice, I think like a systems
+builder: data + product + engineering as one thing, not three separate tracks.
 
-I am very intrested in open source iniciatives and i'm intending to join this world of contribution soon.
+---
 
-Where to find me:
+**What I'm building:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/arthur-brito-medeiros-22ab01182/) 
-[![Gmail Badge](https://img.shields.io/badge/-arthurmedeiros32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurmedeiros32@gmail.com)](mailto:arthurmedeiros32@gmail.com)
+- **[Gambiarra](https://github.com/arthurbm/gambiarra)** — open source
+  hub for multi-agent orchestration. Participants bring their own LLMs;
+  the hub coordinates them.
+- **Escutamed** _(private)_ — medical transcription platform for Brazilian
+  doctors. Records the consultation, writes the structured clinical note
+  in under 60s, surfaces patient history context automatically.
+- **Alupa** _(private)_ — personal food decoder. Turns restaurant menus
+  into personalized recommendations using AI.
+- **[GitLift](https://github.com/arthurbm/gitlift)** — CLI that analyzes
+  your staged changes and generates PR descriptions and commit messages
+  with AI.
+- A personal AI agent running on
+  [OpenClaw](https://github.com/openclaw/openclaw) that manages my
+  Obsidian vault, daily notes, and knowledge base.
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBM&count_private=true&theme=radical)
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurBM&count_private=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurBM&langs_count=8" />
-</a>
--->
+[![LinkedIn](https://img.shields.io/badge/-arthur--brito--medeiros-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-brito-medeiros-22ab01182/)
+[![Email](https://img.shields.io/badge/-arthurmedeiros32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:arthurmedeiros32@gmail.com)
+[![X](https://img.shields.io/badge/-@arthurbritom-000?style=flat-square&logo=x&logoColor=white)](https://x.com/arthurbritom)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurBM&count_private=true&theme=radical)
